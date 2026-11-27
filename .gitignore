@@ -1,0 +1,6 @@
+.env
+.env.*
+*.local
+*.key
+*.pem
+PixelCodeDev_Backup_*.json
